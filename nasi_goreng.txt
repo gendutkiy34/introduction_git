@@ -1,0 +1,4 @@
+bahan nasi goreng adalah :
+ - nasi
+ - kecap
+ - bumbu
